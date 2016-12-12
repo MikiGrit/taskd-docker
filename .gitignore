@@ -1,0 +1,7 @@
+
+# certificates
+*.pem
+
+# data and certificates directory
+data/
+certs/
